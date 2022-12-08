@@ -1,0 +1,7 @@
+[
+    {"id": 1,  "nombre": "Coca Cola", "precio": 600,  "img": "./img/coca.jpg"},
+    {"id": 2, "nombre": "Pepsi",  "precio": 600,  "img": "./img/pepsi.jpg"},
+    {"id": 3,  "nombre": "Seven Up",  "precio": 500,  "img": "./img/seven.jpg"},
+    {"id": 4, "nombre": "Sprite",  "precio": 500,  "img": "./img/sprite.jpg"}
+
+]
